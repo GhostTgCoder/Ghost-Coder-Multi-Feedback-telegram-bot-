@@ -1,0 +1,32 @@
+{
+  "Example Support Bot": {
+    "token": "REPLACE_WITH_BOT_TOKEN",
+    "language": "ru",
+    "channel_id": "",
+    "channel_link": "",
+    "forum_group_id": "REPLACE_WITH_FORUM_GROUP_ID",
+    "publication_channels": [],
+    "subscription_channels": [],
+    "welcome_text": "Здравствуйте! Напишите ваше обращение.",
+    "welcome_messages": {
+      "ru": "Здравствуйте! Напишите ваше обращение."
+    },
+    "welcome_buttons": [],
+    "welcome_media": null,
+    "welcome_media_type": "photo",
+    "welcome_caption": "",
+    "welcome_file": null,
+    "style": {
+      "header": "📩 Новое обращение",
+      "footer": "Ответьте в этой теме, чтобы связаться с пользователем.",
+      "primary_color": "#0088cc"
+    },
+    "working_hours": {
+      "enabled": false,
+      "timezone": "UTC",
+      "weekdays": {},
+      "weekends": [],
+      "offline_message": "Сейчас мы не на связи."
+    }
+  }
+}
