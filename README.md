@@ -2,6 +2,10 @@
 
 **Мульт бот для клиентской поддержки, обращений и модерации через Telegram.** Документационный репозиторий продукта: исходный код бота и рабочие данные намеренно не включены.
 
+<img width="712" height="436" alt="Снимок экрана — 2026-10-15 в 18 24 39" src="https://github.com/user-attachments/assets/83efaa2b-f82f-4849-8370-2cec2025a1b9" />
+<img width="484" height="822" alt="Снимок экрана — 2026-10-15 в 18 25 22" src="https://github.com/user-attachments/assets/987ed340-6342-4f10-830a-1af2de7f9ee6" />
+
+
 [**Купить готового бота на Kwork**](https://kwork.ru/script-programming/54324214/gotoviy-telegram-bot-dlya-podderzhki-klientov-i-obrashcheniy-admin-panel)
 
 ## Что это
